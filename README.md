@@ -7,4 +7,4 @@ Screenshot of Commit on GitHub
 
 Screenshot of the Output of the Merge Command
 
-![Output of Merge Command](image.png)
+![Output of Merge Command](merge_output_screenshot.png)
