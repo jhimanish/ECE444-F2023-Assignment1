@@ -4,6 +4,7 @@ class utils:
     def reversed(num):
         # takes in a number and returns the number reversed
         # parameter: integer
+        num = int(num)
         if num >= 0:
             return int(str(num)[::-1])
         else:
@@ -12,6 +13,7 @@ class utils:
     def formatter(num):
         # takes in a number and returns the number in base 2 (binary) and base 8 (octal) format
         # parameter: int
+        num = int(num)
         num_binary = bin(num)
         num_octal = oct(num)
         return num_binary, num_octal
