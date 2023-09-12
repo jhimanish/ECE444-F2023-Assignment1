@@ -19,3 +19,11 @@ Screenshot of creating utils class:
 
 Screenshot of creating unit tests:
 <img width="1434" alt="image" src="https://github.com/jhimanish/ECE444-F2023-Assignment1/assets/54194957/7dd360d9-fa55-4fe5-9577-f76255471e62">
+
+
+Git Rebase Screenshots:
+Normal Rebase:
+<img width="552" alt="image" src="https://github.com/jhimanish/ECE444-F2023-Assignment1/assets/54194957/1d227c7e-5028-48e4-b9d1-b0c4e7fe1ce5">
+
+Fixing Rebase using interactive rebase:
+<img width="545" alt="image" src="https://github.com/jhimanish/ECE444-F2023-Assignment1/assets/54194957/898243c0-702e-4d17-978a-6e66c958b2ac">
